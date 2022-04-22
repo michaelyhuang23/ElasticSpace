@@ -1,0 +1,8 @@
+<html>
+<head>
+<title>Privacy Policy Statement</title>
+</head>
+<body>
+<h1>This game respect and protect the privacy of all users. We will not exploit or expose to third-party application your private information without your permission. When you agree to this statement, it means that you approve of all contents in this statement. This game requires the permission to read your phone state and to detect the running applications on your phone for the purpose of providing you with a more favorable game-experience. We will not reveal your information to a third-party without your permission or exploit your private information for purposes not listed in this statement</h1>
+</body>
+</html>
