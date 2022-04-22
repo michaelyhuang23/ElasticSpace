@@ -2,6 +2,8 @@
 
 2D Mobile-focused spaceship shooting video game.
 
+Play it on the web [here](https://michaelyhuang23.github.io/ElasticSpace-web/)
+
 On MacOS:
 
 ![screenshot](screenshot.png)
